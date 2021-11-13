@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hanker-glitch
-- 👀 I’m interested in 3D arts, philosophy, music
+- 👀 I’m interested in 3D arts, philosophy, and music
 - 🌱 I’m currently learning computer science and aspects of programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
