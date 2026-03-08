@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanker-glitch
 - 👀 I’m interested in 3D arts, philosophy, and music
-- 🌱 I’m currently learning computer science and aspects of programming
+- 🌱 I’m currently a Houdini artist @FPA studio Taipei
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
